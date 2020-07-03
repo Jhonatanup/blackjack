@@ -49,7 +49,7 @@ const cards =
 										value: 10
 									},
 									{
-										name: 'R',
+										name: 'K',
 										value: 10
 									}
 								];
